@@ -1,6 +1,0 @@
-module:tech.asmussen.dvi.ui
-tech.asmussen.dvi.api
-tech.asmussen.dvi.core
-tech.asmussen.dvi.ui.applications
-tech.asmussen.dvi.ui.controllers
-tech.asmussen.util
